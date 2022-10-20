@@ -1,0 +1,4 @@
+type	flam
+low	0.1
+med	0.4
+high	0.95
